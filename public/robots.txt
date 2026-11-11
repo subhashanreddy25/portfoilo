@@ -1,0 +1,19 @@
+User-agent: Googlebot
+Allow: /
+Disallow: /photo-check
+
+User-agent: Bingbot
+Allow: /
+Disallow: /photo-check
+
+User-agent: Twitterbot
+Allow: /
+Disallow: /photo-check
+
+User-agent: facebookexternalhit
+Allow: /
+Disallow: /photo-check
+
+User-agent: *
+Allow: /
+Disallow: /photo-check
